@@ -1,0 +1,7 @@
+E010,Aa,PVT,true,200
+E008,Anh,PVT,true,2000
+E002,Hung,PVT,true,2000
+E003,Hung,PVT,true,2000
+E004,Hung,PVT,true,2000
+E005,Hung,PVT,true,2000
+E001,Huy,PVT,false,1000
